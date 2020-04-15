@@ -82,3 +82,6 @@ button.addEventListener('click', () => {
   trackUserAsync()
   trackUserHandler()
 });
+
+
+console.dir(button)
