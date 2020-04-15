@@ -87,5 +87,3 @@ button.addEventListener('click', () => {
 // for (let i = 0; i < 1000000000; i++) {
 //   result += i
 // }
-
-console.log()
